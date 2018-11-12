@@ -1,8 +1,8 @@
-Name     Surname   CountryCode   Phone
-Esther   Spiteri   244           454211887
-Molly    Grech	   356		 784545151
-Jack     Borg	   222           354545132
-George   Vella     322           551516312
-Jane     Sacco     744           456451515
-Mary     Grech     755           456151238
-Joe	 Borg      477           656324594
+Name     Surname   CountryCode   Phone       Email
+Esther   Spiteri   244           454211887   espi0027@jc.um.edu.mt
+Molly    Grech	   356		 784545151   espi0027@jc.um.edu.mt
+Jack     Borg	   222           354545132   espi0027@jc.um.edu.mt
+George   Vella     322           551516312   espi0027@jc.um.edu.mt
+Jane     Sacco     744           456451515   espi0027@jc.um.edu.mt
+Mary     Grech     755           456151238   espi0027@jc.um.edu.mt
+Joe	 Borg      477           656324594   espi0027@jc.um.edu.mt
