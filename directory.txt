@@ -4,3 +4,5 @@ Molly    Grech	   356		 784545151
 Jack     Borg	   222           354545132
 George   Vella     322           551516312
 Jane     Sacco     744           456451515
+Mary     Grech     755           456151238
+Joe	 Borg      477           656324594
