@@ -1,4 +1,4 @@
-Name     Surname   CountryCode   Phone
+Name     Surname   CountryCode   Phone       Email
 Esther   Spiteri   244           454211887
 Molly    Grech	   356		 784545151
 Jack     Borg	   222           354545132
